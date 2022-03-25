@@ -1,6 +1,6 @@
-class BinaryTree {
+class BinarySearchTree {
     
-    public BinaryTree() {
+    public BinarySearchTree() {
         // TODO
     }
 
