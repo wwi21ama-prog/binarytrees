@@ -1,5 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hallo Binärbaum.");
+    Element e1 = new Element();
+    System.out.println(e1);
   }
 }
